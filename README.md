@@ -1,1 +1,1 @@
-# BERT-Covid-QA-NLP-Project
+# BERT Covid QA NLP Project
