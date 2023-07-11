@@ -1,0 +1,5 @@
+pandas
+requests
+numpy
+tqdm==4.62.0
+wget
