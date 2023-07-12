@@ -3,3 +3,5 @@ requests
 numpy
 tqdm==4.62.0
 wget
+seaborn==0.11.1
+wordcloud
