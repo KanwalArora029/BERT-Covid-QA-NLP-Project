@@ -5,3 +5,5 @@ tqdm==4.62.0
 wget
 seaborn==0.11.1
 wordcloud
+farm-haystack==0.9.0
+farm==0.8.0
